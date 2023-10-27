@@ -1,1 +1,1 @@
-# IITA_lucca
+# OpenMV Camera
